@@ -100,7 +100,7 @@
     text-align: left;
   }
   #lablogo, #lablogo1{
-    padding-left: 10px;
+    margin-left: 10px;
   }    
 }
 
@@ -146,14 +146,15 @@
   width: 90px;
   height: 90px;
   float: right;
-  padding-right: 10px;
+  border: #fbe5bb solid 1px;
+  border-right: 10px;
 }
 
 #lablogo1{
   width: 95px;
   height: 90px;
-  float: right;
-  padding-right: 10px;
+  border-right: 10px;
+  border: #e7b8ff solid 1px;
 }
 
 .content {
