@@ -101,6 +101,8 @@
   }
   #lablogo, #lablogo1{
     margin-left: 10px;
+    width: 85px;
+    height: 85px;
   }    
 }
 
@@ -147,13 +149,12 @@
   height: 90px;
   float: right;
   border: #fbe5bb solid 1px;
-  border-right: 10px;
 }
 
 #lablogo1{
-  width: 95px;
+  width: 90px;
   height: 90px;
-  border-right: 10px;
+  float: right;
   border: #e7b8ff solid 1px;
 }
 
@@ -248,15 +249,6 @@ padding-right: 8px;
   }
   #detalle{
     color: black;
-  }
-
-  #lablogo1{
-    width: 85px;
-    height: 70px;
-  }
-  #lablogo{
-    width: 85px;
-    height: 70px;
   }
   #puesto{
     text-align: left;
