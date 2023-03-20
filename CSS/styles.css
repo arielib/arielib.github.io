@@ -183,7 +183,6 @@
 /*Carterísitcas idiomas-banderas*/
 
 .flex-idiomas {
-  width: 50vw;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -196,7 +195,7 @@
 }
 
 .examenes {
-  padding-top: 3%;
+  padding-top: 5%;
   padding-bottom: 15%;
 }
 
