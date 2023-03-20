@@ -179,6 +179,27 @@
   margin-top: 3%;
 }
 
+
+/*Carterísitcas idiomas-banderas*/
+
+.flex-idiomas {
+  width: 50vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  column-gap: 30px;
+}
+
+.flex-item {
+  text-align: center;
+}
+
+.examenes {
+  padding-top: 3%;
+  padding-bottom: 15%;
+}
+
 /**Características tarjeta contactos*/
 #contactos{
   width: 800 px; 
@@ -290,4 +311,9 @@ padding-right: 8px;
   width: 43px;
   height: 40px;
   padding-right: 3px;
+}
+
+#banderas {
+  width: 70px;
+  height: 70px;
 }
