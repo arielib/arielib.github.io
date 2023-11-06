@@ -1,0 +1,34 @@
+#picref {
+  width: 9vh;
+  height: 9vh;
+  border-radius: 10%;
+  border: #0072B1 solid 2px; 
+}
+
+#logoref {
+  width: 5vh;
+  height: 7vh;
+}
+
+#logoref1 {
+  width: 8vh;
+  height: 6vh;
+}
+
+#logoref2 {
+  width: 6vh;
+  height: 6vh;
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
